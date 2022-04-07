@@ -62,6 +62,9 @@ sdf(b)
 library(nycflights13)
 library(tidyverse)
 #Do all the exercises:
+
+## WARNING ! - THESE TASKS ARE CO-WORKED WITH ALREADY SOLVED EXEMPLES ONLINE, BECAUSE I STILL CANT QUITE UNDERSTAND 5.6 AND 5.7 ... I FOLLOWED ALONG AND TRIED TO UNDERSTAND WHAT THE AUTHOR IS DOING ##
+
 # 5.6.7 Exercises 
 #1.Brainstorm at least 5 different ways to assess the typical delay characteristics of a group of flights. Consider the following scenarios:
   
